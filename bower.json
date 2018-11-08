@@ -1,0 +1,25 @@
+{
+  "name": "bowerTest3",
+  "authors": [
+    "xavi <xavierg@theprojectgroup.com>"
+  ],
+  "version": "0.0.1",
+  "description": "Bower Test 3",
+  "main": "tpg.js",
+  "keywords": [
+    "bower",
+    "test",
+    "tpg",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "http://tpg.git/bowerTest3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components/",
+    "test",
+    "tests"
+  ]
+}
